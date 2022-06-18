@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER','ec2-54-157-16-196.compute-1.amazonaws.com');
+define('DB_SERVER','postgres://vvhmdnzdzcqhtm:1822ba4e5b23b328cc0e1b0a7c197473b61c1ebb69073b50c49ee513ea3ac80e@ec2-54-157-16-196.compute-1.amazonaws.com:5432/dmkkahi0skp5p');
 define('DB_USER','vvhmdnzdzcqhtm');
 define('DB_PASS' ,'1822ba4e5b23b328cc0e1b0a7c197473b61c1ebb69073b50c49ee513ea3ac80e');
 define('DB_NAME', 'dmkkahi0skp5p');
